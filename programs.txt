@@ -1,0 +1,3 @@
+hic-pro_path=
+bart3d_path=
+python_path=
